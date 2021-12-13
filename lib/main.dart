@@ -17,7 +17,7 @@ import 'package:messenger/layouts/shopApp/cubit/shopcubit.dart';
 import 'package:messenger/layouts/shopApp/shopLayout.dart';
 import 'package:messenger/layouts/social_app/social_Layout.dart';
 import 'package:messenger/layouts/social_app/socialcubit/socialCubit.dart';
-import 'package:messenger/layouts/social_app/sociallogincubit/sociallogincubit.dart';
+// import 'package:messenger/layouts/social_app/sociallogincubit/sociallogincubit.dart';
 import 'package:messenger/models/ShopModels/LoginModel.dart';
 import 'package:messenger/modules/ShopappModules/onBoardingScreen.dart';
 import 'package:messenger/modules/ShopappModules/shopLoginScreen.dart';
